@@ -27,3 +27,8 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+## When to use each
+
+Jupyter notebooks are useful when you want to explore data interactively, visualize results inline, and document your thought process step by step. 
+Python scripts are better when you want to automate tasks, run analyses repeatedly, or deploy code as part of a larger project. 
+Notebooks are ideal for experimentation and sharing insights, while scripts are ideal for production and reproducibility.
